@@ -1,7 +1,7 @@
 import React from "react";
 import { Outlet, useLocation, useNavigate } from "react-router-dom"; // Outlet is key
 import Sidebar from "./Sidebar";
-import Navbar from "./NAvbar";
+import Navbar from "./Navbar";
 import { useSelector } from "react-redux";
 import { useEffect } from "react";
 
